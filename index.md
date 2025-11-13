@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Nepal Trivia"
+title: "Nepal Stuff"
 ---
 
-Welcome to **Nepal Trivia** — a small corner of the web where I collect some lesser-known facts about Nepal.
+Welcome to **Nepal Stuff** — a small corner of the web where I write things about Nepal. Sometimes facts and sometimes opinions
